@@ -1,0 +1,7 @@
+body {
+    padding-right: 1px !important;
+}
+
+div#nav-flyout-ewc {
+    right: -99999px !important;
+}
