@@ -1,7 +1,7 @@
 {
     "name": "Hide Amazon™ Cart Sidebar",
-    "description": "Hides the annoying, broken Amazon™ cart sidebar. Only 2 lines of CSS. Please leave a review if you notice any bugs. :)",
-    "version": "0.0.0.1",
+    "description": "Hides the annoying Amazon™ cart/basket sidebar.",
+    "version": "0.0.0.2",
     "content_scripts": [
         {
             "matches": ["https://*.amazon.com/*", "https://*.amazon.co.uk/*"],
