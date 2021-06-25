@@ -4,7 +4,7 @@
     "version": "0.0.0.1",
     "content_scripts": [
         {
-            "matches": ["https://*.amazon.com/*"],
+            "matches": ["https://*.amazon.com/*", "https://*.amazon.co.uk/*"],
             "css": ["HideSidebar.css"]
         }
     ],
