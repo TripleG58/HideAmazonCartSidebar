@@ -4,7 +4,7 @@
     "version": "0.0.0.2",
     "content_scripts": [
         {
-            "matches": ["https://*.amazon.com/*", "https://*.amazon.co.uk/*"],
+            "matches": [ "https://*.amazon.com/*", "https://*.amazon.com.au/*", "https://*.amazon.com.br/*", "https://*.amazon.ca/*", "https://*.amazon.cn/*", "https://*.amazon.eg/*", "https://*.amazon.fr/*", "https://*.amazon.de/*", "https://*.amazon.in/*", "https://*.amazon.it/*", "https://*.amazon.co.jp/*", "https://*.amazon.com.mx/*", "https://*.amazon.nl/*", "https://*.amazon.pl/*", "https://*.amazon.sa/*", "https://*.amazon.sg/*", "https://*.amazon.es/*", "https://*.amazon.se/*", "https://*.amazon.com.tr/*", "https://*.amazon.ae/*", "https://*.amazon.co.uk/*"],
             "css": ["HideSidebar.css"]
         }
     ],
